@@ -3,7 +3,7 @@
 ### 💫 About Me:
 🎓 Translation & Interpreting student at USAL<br>
 🌍 Fluent in 🇪🇸 🇬🇧 🇫🇷 🇵🇹 <br>
-🚀 Learning to code with [The Odin Project](https://www.theodinproject.com/) and [freeCodeCamp](https://www.freecodecamp.org/)<br>
+🚀 Learning to code with [The Odin Project](https://www.theodinproject.com/) and [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)<br>
 📝 Exploring the use of LLMs in professional translation workflow<br>
 
 ### 💻 What I Know
